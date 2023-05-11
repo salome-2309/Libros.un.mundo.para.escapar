@@ -1,0 +1,44 @@
+p{
+    font-family: fantasy;
+    font-size: 17pt;
+    color: rgb(38, 51, 68);
+    text-indent: 15px;
+    text-align: center}
+h2{
+    font-family: fantasy;
+    font-size: 20pt;
+    color: rgb(66, 57, 126);
+    text-indent: 15px;
+    text-align: center}
+h1{
+    font-family: fantasy;
+    font-size: 25pt;
+    color: rgb(66, 57, 126);
+    text-indent: 15px;
+    text-align: center}
+img{width: 190px;height:230px;}
+html{background-color: hsl(33, 100%, 88%);}
+ol{ font-family: fantasy;
+    font-size: 15pt;
+    color: rgb(38, 51, 68);
+    text-indent: 15px;
+    text-align: center}
+a{ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13pt;
+    color: rgb(67, 68, 70);
+    text-indent: 15px;
+    text-align: center}
+li{font-family: fantasy;
+    font-size: 15pt;
+    color: rgb(38, 51, 68);
+    text-indent: 15px;
+    text-align: center}
+table{background-color: hsl(33, 82%, 89%);
+    width: 1500;
+    margin-top:0px;
+    margin-bottom: 0px}
+#Barralat{border: 1px solid hsl(33, 38%, 77%);
+    background-color:hsl(33, 82%, 89%);
+    float: left;}
+#principal{width: 1020px;
+    float: left;}
